@@ -1,7 +1,7 @@
-# Multiclass Political Sentiment Analysis of Tamil X (Twitter) Comments
+# Multiclass Political Sentiment Analysis of Tamil X Comments Using Transformer-Based Hybrid Classification
 
-## Overview
-This project focuses on analyzing Tamil political tweets using a hybrid approach that combines transformer-based representations with machine learning classifiers. The goal is to classify Tamil political sentiments into multiple categories, addressing linguistic challenges like Tamil's agglutinative structure, code-mixing, slang, and sarcasm.
+## Abstract
+Social media platforms have changed the entire sphere of political discourse with innumerable evaluations of public sentiments towards governance, policies, elections, and political leaders. This paper attempts Political Multiclass Sentiment Analysis on comments from Tamil X (Twitter) addressing issues including Tamil morphological richness, Agglutinative structure, code-mixing, slang, and sarcasm. In light of the limited annotated datasets available for Tamil political sentiment analysis, we developed a hybrid approach by combining IndicBERT (a transformer based model) and Random Forest Classifier. Our model is further enhanced by advanced preprocessing of structured Tamil political tweets. Our model achieved a macro F1 score of 0.2759 and ranked 14th  in the NAACL competitive benchmark. The pipeline was further improved after the deadline, leading to an improved F1 score of 0.3122.
 
 ## Key Features
 - **Transformer-Based Model**: Utilizes IndicBERT for robust Tamil text representation.
