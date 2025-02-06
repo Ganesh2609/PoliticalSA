@@ -1,0 +1,14 @@
+{
+    "SVM Linear" : 0.2619226895560681,
+    "SVM RBF Balanced class weight" : 0.2842334567123112,
+    "SVM RBF Custom class weight" : 0.2671402489136479,
+    "SVM Polynomial degree 5" : 0.253843824472577,
+    "SVM Sigmoid" : 0.231132235355312,
+    "Random Forest" : 0.31216175901756477,
+    "Gradient Boosting" : 0.2823651921533649,
+    "K Nearsest Neighbours" : 0.26944772405707745,
+    "Logistic Regression" : 0.2702342976803495,
+    "Guassian NB" : 0.293030505334216,
+    "Multi Layer Perceptron" : 0.27952408086935776,
+    "Decision Tree" : 0.29086082920904593
+}
