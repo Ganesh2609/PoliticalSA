@@ -8,7 +8,7 @@ Social media platforms have changed the entire sphere of political discourse wit
 - **Hybrid Classification Strategy**: Combines transformer embeddings with a Random Forest classifier for improved accuracy.
 - **Advanced Preprocessing**: Handles text normalization, emoji retention, and code-mixed text filtering.
 - **Multiclass Sentiment Categorization**: Classifies tweets into seven sentiment categories: Substantiated, Sarcastic, Opinionated, Positive, Negative, Neutral, and None of the Above.
-- **Benchmark Performance**: Achieved a macro F1-score of **0.3122** and ranked 14th in the NAACL competitive benchmark.
+- **Benchmark Performance**: Achieved a macro F1-score of **0.3122** (improved) and ranked **14th** (F1 score of **0.2759**) in the NAACL competitive benchmark.
 
 ## Dataset
 The dataset consists of Tamil political tweets labeled across seven sentiment categories:
