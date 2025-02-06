@@ -60,11 +60,11 @@ We experimented with various classifiers on top of the transformer outputs:
 
 ## Results
 
-![Machine Learning Model Comparison]('Machine Learning Models/plot1.png')
-Comparison of different machine learning models used as classification heads.
+![Machine Learning Model Comparison](Machine Learning Models/plot1.png)
+*Comparison of different machine learning models used as classification heads.*
 
-![Base Model Comparison]('Machine Learning Models/plot4.png')
-Comparison of different transformer-based models for Tamil sentiment analysis.
+![Base Model Comparison](Machine Learning Models/plot4.png)
+*Comparison of different transformer-based models for Tamil sentiment analysis.*
 
 - Achieved **macro F1-score: 0.2759** (Initial) and **0.3122** (Final improvement).
 - Ranked **14th in NAACL competitive benchmark**.
@@ -80,4 +80,6 @@ Comparison of different transformer-based models for Tamil sentiment analysis.
 - NAACL organizers for the benchmark dataset.
 - Hugging Face for pre-trained models.
 - Amrita Vishwa Vidyapeetham for research support.
+
+
 
